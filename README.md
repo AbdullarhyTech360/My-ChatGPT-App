@@ -1,7 +1,7 @@
 # ChatGPT Interface
 
-    ## Overview
-    This project is a web-based interface for interacting with the ChatGPT model. It provides a user-friendly interface for users to interact with the ChatGPT model and receive responses. It is built using HTML, CSS, tailwind CSS, and JavaScript. For now you can only interact with the page and not the model.
+## Overview
+This project is a web-based interface for interacting with the ChatGPT model. It provides a user-friendly interface for users to interact with the ChatGPT model and receive responses. It is built using HTML, CSS, tailwind CSS, and JavaScript. For now you can only interact with the page and not the model.
 
 ## This section contains the navigation bar and main content area for the ChatGPT interface.
 
