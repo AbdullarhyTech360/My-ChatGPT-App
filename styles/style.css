@@ -1,0 +1,21 @@
+.switch-class{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.switch-class input{
+    height: 0;
+    width: 0;
+    display: none;
+}
+
+.switch-class .slider{
+    cursor: pointer;
+    transition: 1s;
+}
+
+.switch-class input:checked + .slider {
+    right: 0;
+    transform: translateX(100%);
+}
